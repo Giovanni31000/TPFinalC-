@@ -33,6 +33,7 @@ Pour exécuter le projet, suivez ces étapes :
 3. Exécutez la commande suivante pour restaurer les packages nécessaires :
 
    dotnet restore
+   
    dotnet run
 
 ## Auteur
