@@ -9,12 +9,12 @@ namespace projetfinal
         {
             Console.WriteLine("Bienvenue dans le jeu de personnages !");
 
-            // Exemple de création de personnages
+
             var guerrier = new Guerrier("Aragorn");
             var mage = new Mage("Gandalf");
             var voleur = new Voleur("Legolas");
 
-            // Initialisation des équipes
+
             guerrier.Equipe.Add(guerrier);
             guerrier.Equipe.Add(mage);
             guerrier.Equipe.Add(voleur);
@@ -36,12 +36,10 @@ namespace projetfinal
             voleur.EquipeEnnemie.Add(guerrier);
             voleur.EquipeEnnemie.Add(mage);
 
-            // Affichage des informations des personnages
             Console.WriteLine(guerrier);
             Console.WriteLine(mage);
             Console.WriteLine(voleur);
 
-            // Utilisation des compétences
             guerrier.UtiliserCompetence("Frappe héroïque", mage);
             guerrier.UtiliserCompetence("Cri de bataille", guerrier);
         }

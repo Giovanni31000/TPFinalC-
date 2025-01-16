@@ -28,7 +28,6 @@ namespace projetfinal
 
         public virtual void Utiliser(Personnage utilisateur, Personnage cible)
         {
-            // Logique pour utiliser la compétence
             Console.WriteLine($"{utilisateur.Nom} utilise {Nom} sur {cible.Nom}.");
         }
     }
