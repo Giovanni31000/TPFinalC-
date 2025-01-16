@@ -1,0 +1,30 @@
+C:\Users\giova\OneDrive\Documents\YNOV\C202425\Codage\TPFinalC-\obj\Debug\net8.0\projetfinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\OneDrive\Documents\YNOV\C202425\Codage\TPFinalC-\obj\Debug\net8.0\projetfinal.AssemblyInfoInputs.cache
+C:\Users\giova\OneDrive\Documents\YNOV\C202425\Codage\TPFinalC-\obj\Debug\net8.0\projetfinal.AssemblyInfo.cs
+C:\Users\giova\OneDrive\Documents\YNOV\C202425\Codage\TPFinalC-\obj\Debug\net8.0\projetfinal.csproj.CoreCompileInputs.cache
+C:\Users\giova\OneDrive\Documents\YNOV\C202425\Codage\TPFinalC-\obj\Debug\net8.0\projetfinal.sourcelink.json
+C:\Users\giova\OneDrive\Documents\YNOV\C202425\Codage\TPFinalC-\bin\Debug\net8.0\projetfinal.exe
+C:\Users\giova\OneDrive\Documents\YNOV\C202425\Codage\TPFinalC-\bin\Debug\net8.0\projetfinal.deps.json
+C:\Users\giova\OneDrive\Documents\YNOV\C202425\Codage\TPFinalC-\bin\Debug\net8.0\projetfinal.runtimeconfig.json
+C:\Users\giova\OneDrive\Documents\YNOV\C202425\Codage\TPFinalC-\bin\Debug\net8.0\projetfinal.dll
+C:\Users\giova\OneDrive\Documents\YNOV\C202425\Codage\TPFinalC-\bin\Debug\net8.0\projetfinal.pdb
+C:\Users\giova\OneDrive\Documents\YNOV\C202425\Codage\TPFinalC-\obj\Debug\net8.0\projetfinal.dll
+C:\Users\giova\OneDrive\Documents\YNOV\C202425\Codage\TPFinalC-\obj\Debug\net8.0\refint\projetfinal.dll
+C:\Users\giova\OneDrive\Documents\YNOV\C202425\Codage\TPFinalC-\obj\Debug\net8.0\projetfinal.pdb
+C:\Users\giova\OneDrive\Documents\YNOV\C202425\Codage\TPFinalC-\obj\Debug\net8.0\projetfinal.genruntimeconfig.cache
+C:\Users\giova\OneDrive\Documents\YNOV\C202425\Codage\TPFinalC-\obj\Debug\net8.0\ref\projetfinal.dll
+C:\Users\Utilisateur\OneDrive\Documents\YNOV\2ème année\C202425\Codage\TPFinalC-\obj\Debug\net8.0\projetfinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\OneDrive\Documents\YNOV\2ème année\C202425\Codage\TPFinalC-\obj\Debug\net8.0\projetfinal.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\OneDrive\Documents\YNOV\2ème année\C202425\Codage\TPFinalC-\obj\Debug\net8.0\projetfinal.AssemblyInfo.cs
+C:\Users\Utilisateur\OneDrive\Documents\YNOV\2ème année\C202425\Codage\TPFinalC-\obj\Debug\net8.0\projetfinal.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\OneDrive\Documents\YNOV\2ème année\C202425\Codage\TPFinalC-\obj\Debug\net8.0\projetfinal.sourcelink.json
+C:\Users\Utilisateur\OneDrive\Documents\YNOV\2ème année\C202425\Codage\TPFinalC-\obj\Debug\net8.0\projetfinal.dll
+C:\Users\Utilisateur\OneDrive\Documents\YNOV\2ème année\C202425\Codage\TPFinalC-\obj\Debug\net8.0\refint\projetfinal.dll
+C:\Users\Utilisateur\OneDrive\Documents\YNOV\2ème année\C202425\Codage\TPFinalC-\obj\Debug\net8.0\projetfinal.pdb
+C:\Users\Utilisateur\OneDrive\Documents\YNOV\2ème année\C202425\Codage\TPFinalC-\bin\Debug\net8.0\projetfinal.exe
+C:\Users\Utilisateur\OneDrive\Documents\YNOV\2ème année\C202425\Codage\TPFinalC-\bin\Debug\net8.0\projetfinal.deps.json
+C:\Users\Utilisateur\OneDrive\Documents\YNOV\2ème année\C202425\Codage\TPFinalC-\bin\Debug\net8.0\projetfinal.runtimeconfig.json
+C:\Users\Utilisateur\OneDrive\Documents\YNOV\2ème année\C202425\Codage\TPFinalC-\bin\Debug\net8.0\projetfinal.dll
+C:\Users\Utilisateur\OneDrive\Documents\YNOV\2ème année\C202425\Codage\TPFinalC-\bin\Debug\net8.0\projetfinal.pdb
+C:\Users\Utilisateur\OneDrive\Documents\YNOV\2ème année\C202425\Codage\TPFinalC-\obj\Debug\net8.0\projetfinal.genruntimeconfig.cache
+C:\Users\Utilisateur\OneDrive\Documents\YNOV\2ème année\C202425\Codage\TPFinalC-\obj\Debug\net8.0\ref\projetfinal.dll
